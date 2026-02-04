@@ -89,7 +89,7 @@ HLT
  <img width="1043" height="554" alt="image" src="https://github.com/user-attachments/assets/a5da6f69-20cc-4824-b17d-c2fb2b8987f9" />
 
 ## Subtraction   of 8 bit numbers  ALP 
-```
+
 mov AX,5782H
 mov BX,23ABH
 sub AX,BX
